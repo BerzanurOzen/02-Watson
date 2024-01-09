@@ -1,0 +1,22 @@
+.first-news {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+.analyse {
+  padding: 77px 30px 0 30px;
+}
+.analyse img {
+  width: 100%;
+}
+
+.live {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+}
+
+.live-section {
+  margin: 77px 30px -17px 0;
+}

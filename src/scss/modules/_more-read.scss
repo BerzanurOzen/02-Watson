@@ -1,0 +1,140 @@
+.more-read {
+  margin-right: 13px;
+}
+.more-read h1 {
+  position: absolute;
+  width: 439px;
+  height: 82px;
+  left: 30px;
+  top: 1407px;
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 50px;
+  line-height: 48px;
+  display: flex;
+  align-items: center;
+  color: #e41e13;
+}
+.red-lign {
+  position: absolute;
+  width: 1527px;
+  height: 9px;
+  left: 171px;
+  top: 1480px;
+
+  background: #e41e13;
+}
+.theme-lign1 {
+  position: absolute;
+  width: 467px;
+  height: 9px;
+  top: 190px;
+  background: #1837b6;
+}
+.theme-lign2 {
+  position: absolute;
+  width: 539px;
+  height: 9px;
+  top: 190px;
+  background: #1837b6;
+}
+.theme-lign3 {
+  position: absolute;
+  width: 466px;
+  height: 9px;
+  top: 190px;
+  background: #7cd401;
+}
+.more-section1 {
+  color: white;
+  position: absolute;
+  width: 467px;
+  height: 190px;
+  left: 171px;
+  top: 1489px;
+  background: rgba(255, 255, 255, 0.28);
+}
+.more-section2 {
+  position: absolute;
+  width: 539px;
+  height: 190px;
+  left: 665px;
+  top: 1489px;
+  background: rgba(255, 255, 255, 0.28);
+}
+.more-section3 {
+  position: absolute;
+  width: 466px;
+  height: 190px;
+  left: 1232px;
+  top: 1489px;
+  background: rgba(255, 255, 255, 0.28);
+}
+.auteur {
+  position: absolute;
+  width: 267px;
+  height: 47px;
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 10px;
+  line-height: 48px;
+  display: flex;
+  align-items: center;
+  left: 40%;
+  color: #ffffff;
+}
+.more-title {
+  position: absolute;
+  width: 442px;
+  height: 80px;
+  top: 30%;
+
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 40px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+
+  color: #ffffff;
+}
+.read-more {
+  position: absolute;
+  width: 89px;
+  height: 48px;
+  top: 75%;
+  right: 5%;
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 800;
+  font-size: 12px;
+  line-height: 48px;
+  display: flex;
+  align-items: center;
+
+  color: #ffffff;
+}
+.more-number {
+  /* 1 */
+
+  position: absolute;
+  width: 141px;
+  height: 112px;
+  top: 55%;
+  left: 1%;
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 50px;
+  line-height: 40px;
+  /* or 80% */
+  display: flex;
+  align-items: center;
+  text-align: center;
+
+  color: #ffffff;
+}
